@@ -66,7 +66,7 @@ namespace MyRPG
 			spriteBatch = new SpriteBatch(graphics.GraphicsDevice);
 			
 			// TODO: use this.Content to load your game content here eg.
-			logoTexture = Content.Load<Texture2D>("logo");
+			logoTexture = Content.Load<Texture2D>("Characters/tokinoiori04");
 		}
 
 	#endregion
